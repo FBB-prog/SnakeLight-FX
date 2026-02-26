@@ -2,6 +2,7 @@
 
 ### [TR] Masaüstü Yılan ve Klavye Işık Efekti
 ### [EN] Desktop Snake and Keyboard Light Effect
+<img width="301" height="507" alt="Ekran görüntüsü 2026-02-26 174040" src="https://github.com/user-attachments/assets/437bd2b5-5603-476b-91b3-1c8115a79f36" />
 
 ---
 
